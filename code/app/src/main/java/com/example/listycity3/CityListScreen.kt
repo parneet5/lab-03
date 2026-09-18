@@ -153,4 +153,3 @@ fun CityListScreenPreview() {
             onUpdateCity = { _, _ -> }
         )
     }
-}
